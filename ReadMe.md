@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luismario_rc) 
+[![Gmail](https://img.shields.io/badge/gmail-%23E4405F.svg?logo=gmail&logoColor=white)](https://luismariocarneiro8@gmail.com/) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
