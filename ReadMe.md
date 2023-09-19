@@ -1,5 +1,5 @@
 # 💫 Hello, my name is Luis Mario
--Estudante de Engenharia de Computação <br>na Universidade Estadual de Feira de Santana - UEFS.
+ • Estudante de Engenharia de Computação <br>na Universidade Estadual de Feira de Santana - UEFS.
 
 
 ## 🌐 Socials:
