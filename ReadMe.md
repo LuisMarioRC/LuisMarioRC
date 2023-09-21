@@ -13,7 +13,7 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=plastic&logo=python&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJ&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJ&logoColor=black)
 
 
 ## 🏆 GitHub Trophies
