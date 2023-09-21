@@ -1,9 +1,8 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Luis%20Mario&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Luis%20Mario&fontSize=70" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89CFF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAMY+IS+LUIS+MARIO;)](https:git.io/typing-svg)
 
-# 💫 Hello, my name is Luis Mario
  • Estudante de Engenharia de Computação <br>na Universidade Estadual de Feira de Santana - UEFS.
 
 
