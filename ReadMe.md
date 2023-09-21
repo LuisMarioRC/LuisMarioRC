@@ -14,6 +14,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23ED8B00.svg?style=plastic&logo=python&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJ&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual.Studio.Code-%23ED8B00.svg?style=plastic&logo=VisualStudioCode&logoColor=black)
 
 
 ## 🏆 GitHub Trophies
