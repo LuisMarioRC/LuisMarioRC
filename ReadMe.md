@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=250&section=header&text=Luis%20Mario&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=200&section=header&text=Luis%20Mario&fontSize=60" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89CFF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAMY+IS+LUIS+MARIO;)](https:git.io/typing-svg)
 
