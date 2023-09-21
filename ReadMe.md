@@ -13,7 +13,7 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23ED8B00.svg?style=plastic&logo=python&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJIDEA&logoColor=black)
+![IntelliJ](https://img.shields.io/badge/-%23ED8B00.svg?style=plastic&logo=IntelliJIDEA&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23ED8B00.svg?style=plastic&logo=VisualStudioCode&logoColor=black)
 
 
