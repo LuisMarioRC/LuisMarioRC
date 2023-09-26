@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=175&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=125&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89CFF0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUIS+MARIO;)](https:git.io/typing-svg)
 
@@ -15,6 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-%23ED8B00.svg?style=plastic&logo=python&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-%23ED8B00.svg?style=plastic&logo=IntelliJIDEA&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-%23ED8B00.svg?style=plastic&logo=VisualStudioCode&logoColor=black)
+
 
 
 ## 🏆 GitHub Trophies
