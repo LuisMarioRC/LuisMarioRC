@@ -1,7 +1,7 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=125&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=125&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89CFF0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luis+Mario;)](https:git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luis+Mario;)](https:git.io/typing-svg)
 
  • Estudante de Engenharia de Computação <br>na Universidade Estadual de Feira de Santana - UEFS.
 
