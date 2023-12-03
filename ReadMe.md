@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/LuisMarioRC/LuisMarioRC/blob/output/github-contribution-grid-snake.svg)
+
           
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=125&section=header"/>
 
