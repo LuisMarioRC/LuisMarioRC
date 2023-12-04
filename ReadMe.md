@@ -4,7 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luis+Mario;)](https:git.io/typing-svg)
 
- • Estudante de Engenharia de Computação <br>na Universidade Estadual de Feira de Santana - UEFS.
+## Hello, Devs!!
+
+ • Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana - UEFS, atualmente aprendendo JAVA e POO. 
+ <p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
 
 
 ## 🌐 Socials:
