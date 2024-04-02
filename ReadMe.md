@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Luis+Mario;)](https:git.io/typing-svg)
 
-## Hello, Devs!!
+## Hello!!
 
  • Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana - UEFS. 
  <p align="center">
