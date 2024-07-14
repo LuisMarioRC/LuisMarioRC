@@ -31,7 +31,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title= "MYSQL" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title= "SQL" /></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" title= "DBEAVER" /></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" title= "TRELLO" /></code>
 <code><img width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_verilog_icon_130092.png" title= "VERILOG" /></code>
 
           
