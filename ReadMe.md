@@ -15,6 +15,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luismario_rc) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luismariocarneiro8@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%23E4405F.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-mario-carneiro-155126292/) 
 
 # 💻 Tech Stack:
 
