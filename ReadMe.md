@@ -6,7 +6,8 @@
 
 ## Hello!!
 
- • Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana - UEFS. 
+ • Estudante de Engenharia de Computação na Universidade Estadual de Feira de Santana - UEFS. <br>
+ • Dev Estagiário pela S G M Tecnologia Ltda. 
  <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
